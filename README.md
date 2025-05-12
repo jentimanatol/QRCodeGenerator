@@ -49,6 +49,15 @@ This aligns with course learning outcomes:
 
 ---
 
+
+## 🖼️ App Preview
+
+![Main UI](screenshots/Screenshot1.png)  
+![Main UI](screenshots/Screenshot2.png)  
+
+![Main UI](screenshots/Screenshot3.png)  
+
+
 ## 🔽 How to Use
 
 1. Open the app on your Android phone  
