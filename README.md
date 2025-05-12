@@ -73,7 +73,7 @@ You can test the app without building an APK:
 ## 📁 Project File (.aia)
 
 ➡️ **Download the project file here:**  
-📦 [SimpleQRCodeGenerator.aia](./SimpleQRCodeGenerator.aia) (Add the file to your repo root)
+📦 [SimpleQRCodeGenerator.aia](https://github.com/jentimanatol/QRCodeGenerator/blob/c423eaf08f8e291415c29660fd25ed892acdf51e/SimpleQRCodeGenerator.aia) (Add the file to your repo root)
 
 To modify or extend the app:
 
